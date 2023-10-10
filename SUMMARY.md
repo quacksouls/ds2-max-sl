@@ -8,3 +8,4 @@
 - [Armours](doc/armours.md)
 - [Rings](doc/rings.md)
 - [Consumables](doc/consumables.md)
+- [Dragonrider](doc/dragonrider.md)
