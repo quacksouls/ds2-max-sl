@@ -1,7 +1,7 @@
 {
-  "name": "template",
-  "version": "0.0.2",
-  "description": "A template for documentation",
+  "name": "ds2-max-sl",
+  "version": "0.0.1",
+  "description": "Reach max SL in Dark Souls II: SotFS",
   "main": "index.js",
   "scripts": {
     "clean": "prettier --write README.md doc",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quacksouls/template.git"
+    "url": "git+https://github.com/quacksouls/ds2-max-sl.git"
   },
   "author": "Duck McSouls",
   "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/quacksouls/template/issues"
+    "url": "https://github.com/quacksouls/ds2-max-sl/issues"
   },
-  "homepage": "https://github.com/quacksouls/template",
+  "homepage": "https://github.com/quacksouls/ds2-max-sl",
   "devDependencies": {
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
