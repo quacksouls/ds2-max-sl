@@ -10,3 +10,4 @@
 - [Consumables](doc/consumables.md)
 - [Dragonrider](doc/dragonrider.md)
 - [The Last Giant](doc/last-giant.md)
+- [The Pursuer](doc/pursuer.md)
