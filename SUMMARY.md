@@ -9,3 +9,4 @@
 - [Rings](doc/rings.md)
 - [Consumables](doc/consumables.md)
 - [Dragonrider](doc/dragonrider.md)
+- [The Last Giant](doc/last-giant.md)
