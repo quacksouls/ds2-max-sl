@@ -1,24 +1,19 @@
-# Project name
+# Max SL in Dark Souls 2: SotFS
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
+Tips, strategies, and routes to reach the maximum soul level in
+[Dark Souls II: SotFS](https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/).
+This guide complements the videos here:
 
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWOa4e7piP3G0LWUWyh8efrZ
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the walkthrough.
 
 <!-- ====================================================================== -->
 
