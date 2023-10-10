@@ -1,7 +1,8 @@
 {
     "plugins": [
         "octocat",
-        "remove-published-with-link"
+        "remove-published-with-link",
+        "youtube"
     ],
     "pluginsConfig": {
         "fontsettings": {
