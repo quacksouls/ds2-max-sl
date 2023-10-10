@@ -6,3 +6,4 @@
 - [Weapons](doc/weapons.md)
 - [Spells](doc/spells.md)
 - [Armours](doc/armours.md)
+- [Rings](doc/rings.md)
