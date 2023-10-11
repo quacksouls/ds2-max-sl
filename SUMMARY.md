@@ -24,3 +24,4 @@
 - [Dragonrider x 2](doc/dragonrider2.md)
 - [Looking Glass Knight](doc/looking-glass-knight.md)
 - [Demon of Song](doc/demon-of-song.md)
+- [Velstadt, the Royal Aegis](doc/velstadt.md)
