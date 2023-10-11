@@ -16,3 +16,4 @@
 - [The Rotten](doc/rotten.md)
 - [Scorpioness Najka](doc/scorpioness-najka.md)
 - [Prowling Magus and Congregation](doc/prowling-magus.md)
+- [The Duke's Dear Freja](doc/freja.md)
