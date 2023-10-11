@@ -26,3 +26,4 @@
 - [Demon of Song](doc/demon-of-song.md)
 - [Velstadt, the Royal Aegis](doc/velstadt.md)
 - [Guardian Dragon](doc/guardian-dragon.md)
+- [Ashen Mist Heart](doc/ashen-mist-heart.md)
