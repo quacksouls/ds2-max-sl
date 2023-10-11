@@ -17,3 +17,4 @@
 - [Scorpioness Najka](doc/scorpioness-najka.md)
 - [Prowling Magus and Congregation](doc/prowling-magus.md)
 - [The Duke's Dear Freja](doc/freja.md)
+- [Skeleton Lords](doc/skeleton-lords.md)
