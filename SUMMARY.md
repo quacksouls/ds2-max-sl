@@ -21,3 +21,4 @@
 - [Covetous Demon](doc/covetous-demon.md)
 - [Mytha, the Baneful Queen](doc/mytha.md)
 - [Old Iron King](doc/old-iron-king.md)
+- [Dragonrider x 2](doc/dragonrider2.md)
