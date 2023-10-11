@@ -14,3 +14,4 @@
 - [Ruin Sentinels](doc/ruin-sentinels.md)
 - [Lost Sinner](doc/lost-sinner.md)
 - [The Rotten](doc/rotten.md)
+- [Scorpioness Najka](doc/scorpioness-najka.md)
