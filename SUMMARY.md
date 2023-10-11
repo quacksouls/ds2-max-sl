@@ -19,3 +19,4 @@
 - [The Duke's Dear Freja](doc/freja.md)
 - [Skeleton Lords](doc/skeleton-lords.md)
 - [Covetous Demon](doc/covetous-demon.md)
+- [Mytha, the Baneful Queen](doc/mytha.md)
