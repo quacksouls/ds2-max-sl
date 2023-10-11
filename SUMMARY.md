@@ -20,3 +20,4 @@
 - [Skeleton Lords](doc/skeleton-lords.md)
 - [Covetous Demon](doc/covetous-demon.md)
 - [Mytha, the Baneful Queen](doc/mytha.md)
+- [Old Iron King](doc/old-iron-king.md)
