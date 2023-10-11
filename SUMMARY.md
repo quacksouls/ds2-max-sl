@@ -15,3 +15,4 @@
 - [Lost Sinner](doc/lost-sinner.md)
 - [The Rotten](doc/rotten.md)
 - [Scorpioness Najka](doc/scorpioness-najka.md)
+- [Prowling Magus and Congregation](doc/prowling-magus.md)
