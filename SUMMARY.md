@@ -30,3 +30,4 @@
 - [Giant Lord](doc/giant-lord.md)
 - [Throne Watcher and Defender](doc/throne-watcher-defender.md)
 - [Nashandra](doc/nashandra.md)
+- [Prepare for next NG cycle](doc/preparation.md)
