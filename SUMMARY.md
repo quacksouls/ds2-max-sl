@@ -11,3 +11,4 @@
 - [Dragonrider](doc/dragonrider.md)
 - [The Last Giant](doc/last-giant.md)
 - [The Pursuer](doc/pursuer.md)
+- [Ruin Sentinels](doc/ruin-sentinels.md)
