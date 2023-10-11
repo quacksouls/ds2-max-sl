@@ -29,3 +29,4 @@
 - [Ashen Mist Heart](doc/ashen-mist-heart.md)
 - [Giant Lord](doc/giant-lord.md)
 - [Throne Watcher and Defender](doc/throne-watcher-defender.md)
+- [Nashandra](doc/nashandra.md)
