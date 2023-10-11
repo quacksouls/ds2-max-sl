@@ -23,3 +23,4 @@
 - [Old Iron King](doc/old-iron-king.md)
 - [Dragonrider x 2](doc/dragonrider2.md)
 - [Looking Glass Knight](doc/looking-glass-knight.md)
+- [Demon of Song](doc/demon-of-song.md)
