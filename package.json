@@ -1,6 +1,6 @@
 {
   "name": "ds2-max-sl",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Reach max SL in Dark Souls II: SotFS",
   "main": "index.js",
   "scripts": {
