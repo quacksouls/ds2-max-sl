@@ -24,7 +24,7 @@ Stock up on the items below.
     Brightbug at Aldia's Keep. Collect it while you run through Aldia's Keep to
     reach the area boss.
 
-    {% youtube id="-Tx9w_qcM0M", title="Brightbug at Aldia's Keep" %}{% endyoutube %}
+    {% youtube id="-Tx9w_qcM0M", title="Brightbug at Aldia's Keep, Dark Souls 2: SotFS" %}{% endyoutube %}
 
     Consider using the Brightbug glitch to extend the duration of the item's
     effects. The effects of a Brightbug normally lasts for 120 seconds. The
@@ -49,8 +49,10 @@ Stock up on the items below.
 -   Wilted Dusk Herb. Restores a large number of spell uses, more than that
     restored by Twilight Herb. Indispensable if you use spells to defeat enemies
     on your way to a boss arena. Wellager sells Wilted Dusk Herb x 10. The herb
-    can be farmed at Aldia's Keep; see the video below for details.<br/>
-    {% youtube id="urKjPpptvZg", title="Farming Bonfire Ascetic and Elizabeth Mushroom" %}{% endyoutube %}
+    can be farmed at Aldia's Keep; see the video below for details.
+
+    {% youtube id="urKjPpptvZg", title="Farming Bonfire Ascetic and Elizabeth Mushroom, Dark Souls 2: SotFS" %}{% endyoutube %}
+
 -   Rouge Water. Restores many spell uses and gradually heals you for 850 HP.
     One is found near the gate that unlocks the passage to Huntsman's Copse.
     Straid sells Rouge Water x 3.
@@ -111,14 +113,18 @@ Stock up on the items below.
     souls apiece. Agdayne sells 13 for 3,000 souls each. Melentia sells five for
     1,500 souls each. After collecting the King's Ring at Undead Crypt, talk to
     Strowen at Things Betwixt to receive Human Effigy x 6. Refer to the
-    following videos for how to farm Human Effigies.<br/>
-    {% youtube id="f2v-Ng4cQFs", title="Farming Human Effigies at Forest of Fallen Giants" %}{% endyoutube %}<br/>
-    {% youtube id="_kdHI3xd4II", title="Farming Human Effigies at Majula" %}{% endyoutube %}
+    following videos for how to farm Human Effigies.
+
+    {% youtube id="f2v-Ng4cQFs", title="Farming Human Effigies at Forest of Fallen Giants, Dark Souls 2: SotFS" %}{% endyoutube %}
+
+    {% youtube id="_kdHI3xd4II", title="Farming Human Effigies at Majula, Dark Souls 2: SotFS" %}{% endyoutube %}
+
 -   Firebomb. Throw to explode upon impact. Melentia sells an unlimited number
     of Firebomb for 200 souls each. The only use for this item is to unlock a
-    shortcut near the Cardinal Tower bonfire. See the video below for
-    details:<br/>
-    {% youtube id="uAfCWKhGjSc", title="Cale's Helm and Estus Flask Shard x 2 at Majula" %}{% endyoutube %}
+    shortcut near the Cardinal Tower bonfire. See the video below for details.
+
+    {% youtube id="uAfCWKhGjSc", title="Cale's Helm and Estus Flask Shard x 2 at Majula, Dark Souls 2: SotFS" %}{% endyoutube %}
+
 -   Alluring Skull. Throw to shatter to attract various nearby enemies. Use to
     distract many enemies while you dash to a boss arena. Does not last as long
     as Yearn. Sweet Shalquoir sells an infinite number of this item after you

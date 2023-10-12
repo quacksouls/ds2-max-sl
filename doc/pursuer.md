@@ -26,7 +26,7 @@ Buff your weapon with lightning if possible. Lock onto the boss and bait the
 charging slash attack. As the boss charges at you, dash to your right, strafe
 behind the boss, and get in one hit. See the video below for the strategy.
 
-{% youtube id="cQVW_rnd-pM", title="SL1 The Pursuer" %}{% endyoutube %}
+{% youtube id="cQVW_rnd-pM", title="SL1 The Pursuer, Dark Souls 2: SotFS" %}{% endyoutube %}
 
 Defeat The Pursuer and interact with the crow nest located at the back of the
 boss arena. You would be transported to The Lost Bastille.

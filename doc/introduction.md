@@ -9,8 +9,9 @@ up to the maximum soul level. You can certainly farm souls to level up. The
 Giant Lord is the best source of souls in the game. Refer to the following
 videos for a strategy to farm the Giant Lord:
 
-{% youtube id="Cnk4a19aJ08", title="Farming the Giant Lord" %}{% endyoutube %}<br/>
-{% youtube id="47RXsepUsrw", title="Armour set for soul farming" %}{% endyoutube %}
+{% youtube id="Cnk4a19aJ08", title="Farming the Giant Lord, Dark Souls 2: SotFS" %}{% endyoutube %}
+
+{% youtube id="47RXsepUsrw", title="Armour set for soul farming, Dark Souls 2: SotFS" %}{% endyoutube %}
 
 In addition to farming souls, you can also beat the game NG after NG, a change
 from the monotony of farming the Giant Lord over and over again. The rest of the

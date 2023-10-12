@@ -57,7 +57,7 @@ her, in addition to any other items you might need such as Lifegems:
     the video below. Purchase a few Firebombs in case you miss a number of
     throws.
 
-{% youtube id="uAfCWKhGjSc", title="Cale's Helm and Estus Flask Shard x 2 at Majula" %}{% endyoutube %}
+{% youtube id="uAfCWKhGjSc", title="Cale's Helm and Estus Flask Shard x 2 at Majula, Dark Souls 2: SotFS" %}{% endyoutube %}
 
 Use a Firebomb to blast through a wall, as shown in the video above, thus
 opening a shortcut to The Last Giant. Throw an Alluring Skull to distract the
